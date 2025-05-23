@@ -1,10 +1,11 @@
 ## Hi there 👋
+<!--
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Chewy&pause=1000&color=1E6889&width=435&lines=Hello!+I+am+an+happy+biostatistician!+" alt="Typing SVG" />
 </a>
 </p>
-
+-->
 
 
 ### Tools 
